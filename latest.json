@@ -1,9 +1,9 @@
 {
-  "version": "1.0.1",
-  "versionCode": 10001,
-  "url": "https://github.com/Sensaicraft/besteAppRepo/releases/download/v1.0.1/beste-stream-1.0.1.apk",
-  "size": 5858809,
-  "sha256": "ace7b77c0ec8c85a67b00f3bcdbb9c9bc13ff1fb2b56dcd7f93e0f8467a17a9c",
-  "notes": "- Fixed Seerr Results on Mobile\n- Fixed Halloween Spotlight not showing\n- Fixed android issues",
-  "published": "2026-10-05T15:13:43Z"
+  "version": "1.0.2",
+  "versionCode": 10002,
+  "url": "https://github.com/Sensaicraft/besteAppRepo/releases/download/v1.0.2/beste-stream-1.0.2.apk",
+  "size": 5872433,
+  "sha256": "d861b0295d433779fc5e199c270ed55bcbcd765f247c65e4691641aca4479388",
+  "notes": "- Added: Request Notifications\n- Added: Swipe Controls for Carousels\n- Added: Series auto-update request status\n- Added: TV Support",
+  "published": "2026-10-06T07:49:49Z"
 }
