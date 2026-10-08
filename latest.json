@@ -1,9 +1,9 @@
 {
-  "version": "1.0.3",
-  "versionCode": 10003,
-  "url": "https://github.com/Sensaicraft/besteAppRepo/releases/download/v1.0.3/beste-stream-1.0.3.apk",
-  "size": 5881290,
-  "sha256": "ee6fde50e3c6005bab0b7aad516244d7df082567829dd0fc40cff4fdcb694d75",
-  "notes": "- Added: Request Notifications on Mobile\n- Added: Pull-to-Refresh on Mobile\n- Added: Option to open Offline Page on Mobile\n- Reworked: Profile Dropdown\n- Reworked: Requests Page on Mobile\n- Fixed: Stats Page being cut off on Mobile\n- Fixed: Subtitle Size and Positioning on Mobile\n- Fixed: Console Errors",
-  "published": "2026-10-06T19:00:06Z"
+  "version": "1.0.4",
+  "versionCode": 10004,
+  "url": "https://github.com/Sensaicraft/besteAppRepo/releases/download/v1.0.4/beste-stream-1.0.4.apk",
+  "size": 5901629,
+  "sha256": "403880ed90dbf6cdc12df9d98d27c07be662a99529d1601e584dac7204863606",
+  "notes": "- Added: Yearly Wrapped \n- Reworked: Settings \n- Added: watch settings are kept in queue \n- Reworked: Item Page on Phone\n- Fixed: Stats Page not using real watch Data",
+  "published": "2026-10-08T09:34:29Z"
 }
