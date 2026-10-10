@@ -1,9 +1,9 @@
 {
-  "version": "1.0.4",
-  "versionCode": 10004,
-  "url": "https://github.com/Sensaicraft/besteAppRepo/releases/download/v1.0.4/beste-stream-1.0.4.apk",
-  "size": 5901629,
-  "sha256": "403880ed90dbf6cdc12df9d98d27c07be662a99529d1601e584dac7204863606",
-  "notes": "- Added: Yearly Wrapped \n- Reworked: Settings \n- Added: watch settings are kept in queue \n- Reworked: Item Page on Phone\n- Fixed: Stats Page not using real watch Data",
-  "published": "2026-10-08T09:34:29Z"
+  "version": "1.1.0",
+  "versionCode": 10100,
+  "url": "https://github.com/Sensaicraft/besteAppRepo/releases/download/v1.1.0/beste-stream-1.1.0.apk",
+  "size": 5959496,
+  "sha256": "662cd203fe840962518b15c1ace818b20cdabdeb01f62442e0524b46a1cd45e6",
+  "notes": "- Added: Season Progess Indicator\n- Added: Chat for Watch Room\n- Added: Clipping of Movies/Episodes\n- Added: Achievement System\n- Added: Messenger App\n- Added: Public Profiles\n- Reworked: Wrapped Design\n- Fixed: Unable to switch Avatar on Mobile",
+  "published": "2026-10-10T18:08:46Z"
 }
