@@ -1,9 +1,9 @@
 {
-  "version": "1.1.0",
-  "versionCode": 10100,
-  "url": "https://github.com/Sensaicraft/besteAppRepo/releases/download/v1.1.0/beste-stream-1.1.0.apk",
-  "size": 5959496,
-  "sha256": "662cd203fe840962518b15c1ace818b20cdabdeb01f62442e0524b46a1cd45e6",
-  "notes": "- Added: Season Progess Indicator\n- Added: Chat for Watch Room\n- Added: Clipping of Movies/Episodes\n- Added: Achievement System\n- Added: Messenger App\n- Added: Public Profiles\n- Reworked: Wrapped Design\n- Fixed: Unable to switch Avatar on Mobile",
-  "published": "2026-10-10T18:08:46Z"
+  "version": "1.1.1",
+  "versionCode": 10101,
+  "url": "https://github.com/Sensaicraft/besteAppRepo/releases/download/v1.1.1/beste-stream-1.1.1.apk",
+  "size": 5974344,
+  "sha256": "1cc444ad7920ad73174f63d1ca032b704720d9b98da4fe0211055b327bbc9a00",
+  "notes": "- Added: Message Replies\n- Added: Notifications for Messages\n- Added: Chromecast Queueing\n- Added: Close Toast\n- Reworked: Achievement Icons\n- Fixed: Wrapped Design Bugs\n- Fixed: Navbar Cramping\n- Fixed: Achievements not using Playback Reporting",
+  "published": "2026-10-11T09:33:10Z"
 }
