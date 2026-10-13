@@ -1,9 +1,9 @@
 {
-  "version": "1.1.1",
-  "versionCode": 10101,
-  "url": "https://github.com/Sensaicraft/besteAppRepo/releases/download/v1.1.1/beste-stream-1.1.1.apk",
-  "size": 5974344,
-  "sha256": "1cc444ad7920ad73174f63d1ca032b704720d9b98da4fe0211055b327bbc9a00",
-  "notes": "- Added: Message Replies\n- Added: Notifications for Messages\n- Added: Chromecast Queueing\n- Added: Close Toast\n- Reworked: Achievement Icons\n- Fixed: Wrapped Design Bugs\n- Fixed: Navbar Cramping\n- Fixed: Achievements not using Playback Reporting",
-  "published": "2026-10-11T09:33:10Z"
+  "version": "1.2.0",
+  "versionCode": 10200,
+  "url": "https://github.com/Sensaicraft/besteAppRepo/releases/download/v1.2.0/beste-stream-1.2.0.apk",
+  "size": 6010548,
+  "sha256": "fd46dd369714146bef109e62ad8e87257a67611540b0a2ae4763b4a6fc5aa0a9",
+  "notes": "- Added: Leveling System\n- Added: Avatar Unlocking\n- Added: 20+ new Achievements\n- Added: More Achievement Levels\n- Added: Chromecast Play-Queue\n- Reworked: Language System\n- Fixed: Performance Inefficiencies\n- Fixed: Playlist Preview and Backdrop not getting updated to progess\n- Fixed: Cutoff Cast Names\n- Removed: Placeholder Avatars",
+  "published": "2026-10-13T07:58:12Z"
 }
