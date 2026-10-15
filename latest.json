@@ -1,9 +1,9 @@
 {
-  "version": "1.2.2",
-  "versionCode": 10202,
-  "url": "https://github.com/Sensaicraft/besteAppRepo/releases/download/v1.2.2/beste-stream-1.2.2.apk",
-  "size": 6073260,
-  "sha256": "ada139ae1ad48b6647200bae8df27006d593429d6cd6552b69d583847e66339d",
-  "notes": "- Added: about 20 new Achievements\n- Added: Daily-Streaks\n- Added: Streak-Buddys\n- Added: Weekly Challenges\n- Added: Better Diagnostic Tools\n- Added: Backups\n- Added: Roulette Picker in Watchrooms\n- Added: Lock-Screen controls on mobile\n- Reworked: Levelling-System\n- Fixed: False reporting on Offline Watching\n- Fixed: Library Health Loading taking forever",
-  "published": "2026-10-15T18:48:36Z"
+  "version": "1.2.3",
+  "versionCode": 10203,
+  "url": "https://github.com/Sensaicraft/besteAppRepo/releases/download/v1.2.3/beste-stream-1.2.3.apk",
+  "size": 6078087,
+  "sha256": "127291b1344b7c9b1150c8b40cb764129e19b733712e187b19298d3021dbe4d3",
+  "notes": "- Added: Buddy Invite as message\n- Reworked: Own Profile Page on Mobile\n- Reworked: Publice Profile Pages on Mobile",
+  "published": "2026-10-15T19:31:58Z"
 }
