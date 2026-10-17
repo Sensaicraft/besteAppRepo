@@ -1,9 +1,9 @@
 {
-  "version": "1.2.3",
-  "versionCode": 10203,
-  "url": "https://github.com/Sensaicraft/besteAppRepo/releases/download/v1.2.3/beste-stream-1.2.3.apk",
-  "size": 6078087,
-  "sha256": "127291b1344b7c9b1150c8b40cb764129e19b733712e187b19298d3021dbe4d3",
-  "notes": "- Added: Buddy Invite as message\n- Reworked: Own Profile Page on Mobile\n- Reworked: Publice Profile Pages on Mobile",
-  "published": "2026-10-15T19:31:58Z"
+  "version": "1.2.4",
+  "versionCode": 10204,
+  "url": "https://github.com/Sensaicraft/besteAppRepo/releases/download/v1.2.4/beste-stream-1.2.4.apk",
+  "size": 6110163,
+  "sha256": "d53dcb7419c381ba49e6f2a2df8df31c9bb4677c6eb360b784bb356aaf823301",
+  "notes": "- Added: Profile Titles\n- Added: Global weekly Challenge\n- Added: Library Progress Overview\n- Added: Clips Tab on Profile\n- Added: new Achievements\n- Added Welcome Back Boost\n- Added: Weekly Challenges Summary\n- Added: Haptics on mobile\n- Reworked: Profile Page\n- Reworked: Streak running out Icon\n- Reworked: Next Episode Card\n- Fixed: Promo-Material counting for Achievements",
+  "published": "2026-10-17T08:11:54Z"
 }
