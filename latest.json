@@ -1,9 +1,9 @@
 {
-  "version": "1.2.4",
-  "versionCode": 10204,
-  "url": "https://github.com/Sensaicraft/besteAppRepo/releases/download/v1.2.4/beste-stream-1.2.4.apk",
-  "size": 6110163,
-  "sha256": "d53dcb7419c381ba49e6f2a2df8df31c9bb4677c6eb360b784bb356aaf823301",
-  "notes": "- Added: Profile Titles\n- Added: Global weekly Challenge\n- Added: Library Progress Overview\n- Added: Clips Tab on Profile\n- Added: new Achievements\n- Added Welcome Back Boost\n- Added: Weekly Challenges Summary\n- Added: Haptics on mobile\n- Reworked: Profile Page\n- Reworked: Streak running out Icon\n- Reworked: Next Episode Card\n- Fixed: Promo-Material counting for Achievements",
-  "published": "2026-10-17T08:11:54Z"
+  "version": "1.2.5",
+  "versionCode": 10205,
+  "url": "https://github.com/Sensaicraft/besteAppRepo/releases/download/v1.2.5/beste-stream-1.2.5.apk",
+  "size": 6112544,
+  "sha256": "ac55b050438a5f9b84f83134b81bdcc013a5d6ea2cdfb1e2dd907485b1c086f6",
+  "notes": "- Added: Settings on what popups should be shown\n- Added: Option to see old changelogs\n- Fixed: Update/Download Buttons being inaccessible on some devices\n- Fixed: Title unlocking popup coming more than once\n- Fixed: Playback stopping when display turning off",
+  "published": "2026-10-17T17:09:18Z"
 }
