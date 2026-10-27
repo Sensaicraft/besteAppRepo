@@ -1,9 +1,9 @@
 {
-  "version": "1.2.5",
-  "versionCode": 10205,
-  "url": "https://github.com/Sensaicraft/besteAppRepo/releases/download/v1.2.5/beste-stream-1.2.5.apk",
-  "size": 6112544,
-  "sha256": "ac55b050438a5f9b84f83134b81bdcc013a5d6ea2cdfb1e2dd907485b1c086f6",
-  "notes": "- Added: Settings on what popups should be shown\n- Added: Option to see old changelogs\n- Fixed: Update/Download Buttons being inaccessible on some devices\n- Fixed: Title unlocking popup coming more than once\n- Fixed: Playback stopping when display turning off",
-  "published": "2026-10-17T17:09:18Z"
+  "version": "1.2.6",
+  "versionCode": 10206,
+  "url": "https://github.com/Sensaicraft/besteAppRepo/releases/download/v1.2.6/beste-stream-1.2.6.apk",
+  "size": 5948161,
+  "sha256": "26977cbb44d8c98d682962b7382dc2c051b8ae44b79613f741beb104393d6f47",
+  "notes": "Added: New Title Categories\nAdded: New Achievements and Achievement-Levels\nAdded: New Settings for In-App Popups\nAdded: Edit/Delete/React to Messages\nAdded: New Line in Messages on Mobile\nAdded: Typing Indicator\nAdded: Icon in Browser and on Mobile\nAdded: Sorting to Achievements\nAdded: Backdrop/Thumbnail per Season\nReworked: TV UI\nReworked: Avatar Selection Screen\nReworked: Counting for several Achievements\nReworked: Notifications (better reliability)\nReworked: XP Distribution for all Achievements\nReworked: Weekly Challenge Review\nFixed: Search Page not showing all decades\nFixed: No Way to select Seasons past Season 13 on PC\nFixed: Leak where everyone could see Stats of other accounts even when turned off\nFixed: Downloading Media even when not permitted to\nFixed: Not More Than 100 Achievements claimable at one time\nFixed: Admin - Now Playing Ordering switching randomly\nImproved: Loading Times on Mobile\nImproved: Performance in general\nImproved: Admin - Release Calendar Loading Time",
+  "published": "2026-10-27T19:52:02Z"
 }
