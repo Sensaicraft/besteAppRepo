@@ -1,9 +1,9 @@
 {
-  "version": "1.2.6",
-  "versionCode": 10206,
-  "url": "https://github.com/Sensaicraft/besteAppRepo/releases/download/v1.2.6/beste-stream-1.2.6.apk",
-  "size": 5948161,
-  "sha256": "26977cbb44d8c98d682962b7382dc2c051b8ae44b79613f741beb104393d6f47",
-  "notes": "Added: New Title Categories\nAdded: New Achievements and Achievement-Levels\nAdded: New Settings for In-App Popups\nAdded: Edit/Delete/React to Messages\nAdded: New Line in Messages on Mobile\nAdded: Typing Indicator\nAdded: Icon in Browser and on Mobile\nAdded: Sorting to Achievements\nAdded: Backdrop/Thumbnail per Season\nReworked: TV UI\nReworked: Avatar Selection Screen\nReworked: Counting for several Achievements\nReworked: Notifications (better reliability)\nReworked: XP Distribution for all Achievements\nReworked: Weekly Challenge Review\nFixed: Search Page not showing all decades\nFixed: No Way to select Seasons past Season 13 on PC\nFixed: Leak where everyone could see Stats of other accounts even when turned off\nFixed: Downloading Media even when not permitted to\nFixed: Not More Than 100 Achievements claimable at one time\nFixed: Admin - Now Playing Ordering switching randomly\nImproved: Loading Times on Mobile\nImproved: Performance in general\nImproved: Admin - Release Calendar Loading Time",
-  "published": "2026-10-27T19:52:02Z"
+  "version": "1.2.7",
+  "versionCode": 10207,
+  "url": "https://github.com/Sensaicraft/besteAppRepo/releases/download/v1.2.7/beste-stream-1.2.7.apk",
+  "size": 5948622,
+  "sha256": "22937160977f58fdacb3bc6e0bfb53b1904c2e85f5659f40b88e78af050879f7",
+  "notes": "Added: Indicator in Changelog if scrollabe\nFixed: Avatars not showing in Users Tab\nFixed: false detection as malware by Android",
+  "published": "2026-10-27T20:16:26Z"
 }
