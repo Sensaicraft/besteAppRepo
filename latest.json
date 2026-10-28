@@ -1,9 +1,9 @@
 {
-  "version": "1.2.7",
-  "versionCode": 10207,
-  "url": "https://github.com/Sensaicraft/besteAppRepo/releases/download/v1.2.7/beste-stream-1.2.7.apk",
-  "size": 5948622,
-  "sha256": "22937160977f58fdacb3bc6e0bfb53b1904c2e85f5659f40b88e78af050879f7",
-  "notes": "Added: Indicator in Changelog if scrollabe\nFixed: Avatars not showing in Users Tab\nFixed: false detection as malware by Android",
-  "published": "2026-10-27T20:16:26Z"
+  "version": "1.2.8",
+  "versionCode": 10208,
+  "url": "https://github.com/Sensaicraft/besteAppRepo/releases/download/v1.2.8/beste-stream-1.2.8.apk",
+  "size": 5960447,
+  "sha256": "932b29a21c10557e60e6a156d9aa34da55386ffb6b02f1445ed456b21a706a3d",
+  "notes": "Added: Admin - Stats Page\nFixed: Weekly Challenge Review showing more than once",
+  "published": "2026-10-28T07:43:03Z"
 }
