@@ -1,9 +1,9 @@
 {
-  "version": "1.2.8",
-  "versionCode": 10208,
-  "url": "https://github.com/Sensaicraft/besteAppRepo/releases/download/v1.2.8/beste-stream-1.2.8.apk",
-  "size": 5960447,
-  "sha256": "932b29a21c10557e60e6a156d9aa34da55386ffb6b02f1445ed456b21a706a3d",
-  "notes": "Added: Admin - Stats Page\nFixed: Weekly Challenge Review showing more than once",
-  "published": "2026-10-28T07:43:03Z"
+  "version": "1.3.0",
+  "versionCode": 10300,
+  "url": "https://github.com/Sensaicraft/besteAppRepo/releases/download/v1.3.0/beste-stream-1.3.0.apk",
+  "size": 5980802,
+  "sha256": "c178faf3301470e04c7ddf3d3f58f99a4a57e9ef3eb56f3189750e08fe21be0f",
+  "notes": "- Added: Scene Guessing Game\n- Added: New Achievements\n- Added: New Titles\n- Reworked: Usage-Page\n- Reworked: Wrapped Share-Image\n- Fixed: Title Requirement not showing after unlocked\n- Fixed: Animation for Wrapped\n- Fixed: Homescreen not scrollable on TV\n- Updated: Third-Party Software",
+  "published": "2026-10-30T10:08:09Z"
 }
