@@ -1,9 +1,9 @@
 {
-  "version": "1.3.1",
-  "versionCode": 10301,
-  "url": "https://github.com/Sensaicraft/besteAppRepo/releases/download/v1.3.1/beste-stream-1.3.1.apk",
-  "size": 5988595,
-  "sha256": "14cc133d16d712067394ccfe1f6f56dca636846074ce78a4fb1fc3111ae9d82e",
-  "notes": "- Added: Still-Watching Check\n- Reworked: Daily Scene Sharing\n- Fixed: Wrong Achievements and Titles for Daily Scene Game showing\n- Fixed: English Translations",
-  "published": "2026-10-30T18:36:47Z"
+  "version": "1.3.2",
+  "versionCode": 10302,
+  "url": "https://github.com/Sensaicraft/besteAppRepo/releases/download/v1.3.2/beste-stream-1.3.2.apk",
+  "size": 6020162,
+  "sha256": "81f608f9a346aeafafd578c1c4234555bf8e1e7806efa3effec4677b0a0ddbd0",
+  "notes": "Added: Archive for Daily Scene Game\nAdded: New Achievements\nAdded: New Titles\nReworked: Metadata-Editor\nReworked: All Title Designs\nReworked: Homepage on Mobile/Web\nFixed: Security Vulnerabilities\nFixed: Client-Plugin Communication Errors\nFixed: Billboard on Homepage not showing series\nFixed: Website not going into Fullscreen on TV\nFixed: Devices with only 8-Bit HVEC Support not playing video\nRemoved: Plugin Support for older Client Versions",
+  "published": "2026-11-01T21:09:30Z"
 }
