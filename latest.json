@@ -1,9 +1,9 @@
 {
-  "version": "1.3.3",
-  "versionCode": 10303,
-  "url": "https://github.com/Sensaicraft/besteAppRepo/releases/download/v1.3.3/beste-stream-1.3.3.apk",
-  "size": 6071509,
-  "sha256": "31cc4d7d9e5e935f0241d4a4e333b845666f342ce781c14c2714c93fcb1ee83a",
-  "notes": "- Added: Episode Requesting\n- Added: More Rows on Homescreen\n- Added: \"New\" Indicator for user titles\n- Added: option to download seasons\n- Fixed: Weekly Challenges finding tool showing false season information\n- Fixed: HLS-Streaming bugs\n- Fixed: Removed Request on search not updating",
-  "published": "2026-11-16T11:32:39Z"
+  "version": "1.4.0",
+  "versionCode": 10400,
+  "url": "https://github.com/Sensaicraft/besteAppRepo/releases/download/v1.4.0/beste-stream-1.4.0.apk",
+  "size": 6094082,
+  "sha256": "4a81c9c2a918e52c7e7800f6f916fa20a02cc0af59bc9625779fc3b74666b306",
+  "notes": "- Added: Marking for newly acquired Avatars\n- Added: Avatar Frames\n- Added: Award-winner rows on homepage\n- Added: Missing episodes/seasons to item pages for easier requesting\n- Reworked: Daily Scene Page\n- Reworked: Some Icons of hidden Achievements\n- Fixed: Back Button on TV going through queue instead of directly back to homepage\n- Fixed: Achievement Progressbar using best value instead of current one\n- Fixed: Line cutting through backdrop overlay on TV\n- Fixed: 100+ Lint warnings\n- Removed: Automatic Quality Changing on TV in order to increase stability",
+  "published": "2026-11-18T20:31:57Z"
 }
