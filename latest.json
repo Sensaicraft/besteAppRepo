@@ -1,9 +1,9 @@
 {
-  "version": "1.4.0",
-  "versionCode": 10400,
-  "url": "https://github.com/Sensaicraft/besteAppRepo/releases/download/v1.4.0/beste-stream-1.4.0.apk",
-  "size": 6094082,
-  "sha256": "4a81c9c2a918e52c7e7800f6f916fa20a02cc0af59bc9625779fc3b74666b306",
-  "notes": "- Added: Marking for newly acquired Avatars\n- Added: Avatar Frames\n- Added: Award-winner rows on homepage\n- Added: Missing episodes/seasons to item pages for easier requesting\n- Reworked: Daily Scene Page\n- Reworked: Some Icons of hidden Achievements\n- Fixed: Back Button on TV going through queue instead of directly back to homepage\n- Fixed: Achievement Progressbar using best value instead of current one\n- Fixed: Line cutting through backdrop overlay on TV\n- Fixed: 100+ Lint warnings\n- Removed: Automatic Quality Changing on TV in order to increase stability",
-  "published": "2026-11-18T20:31:57Z"
+  "version": "1.4.1",
+  "versionCode": 10401,
+  "url": "https://github.com/Sensaicraft/besteAppRepo/releases/download/v1.4.1/beste-stream-1.4.1.apk",
+  "size": 6138174,
+  "sha256": "f3ee2f53a66ce99184d39631c42964e6aa051377d38e8285c0761785cf299d20",
+  "notes": "- Added: Event Framework\n- Added: Frame Unlock Animation\n- Added: 5 new Frames\n- Reworked: Admin - Usage Tab\n- Fixed: Transcoding unreadable segment error\n- Fixed: Error code 4 - stream failed\n- Fixed: Remote control not auto-starting\n- Fixed: Size-budget overstepping",
+  "published": "2026-11-21T10:43:30Z"
 }
