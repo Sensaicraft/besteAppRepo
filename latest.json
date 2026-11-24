@@ -1,9 +1,9 @@
 {
-  "version": "1.4.2",
-  "versionCode": 10402,
-  "url": "https://github.com/Sensaicraft/besteAppRepo/releases/download/v1.4.2/beste-stream-1.4.2.apk",
-  "size": 6174275,
-  "sha256": "a1194ed5a67d4cb60db35c13f1994a69764fdeabb522d3efa6fe6bb1ebc88c93",
-  "notes": "- Added: Search by tag (using [tag])\n- Reworked: Billboard movie selection\n- Reworked: Event details\n- Fixed: Watchrooms not showing avatars\n- Fixed: Another transcode error",
-  "published": "2026-11-24T08:31:36Z"
+  "version": "1.4.3",
+  "versionCode": 10403,
+  "url": "https://github.com/Sensaicraft/besteAppRepo/releases/download/v1.4.3/beste-stream-1.4.3.apk",
+  "size": 6174227,
+  "sha256": "4a47e748c616410d3c5aebfa4c34b1034de16ca05981e583860c82f1b3ae4812",
+  "notes": "- Added: Glowing effect\n- Fixed: Animations",
+  "published": "2026-11-24T08:42:30Z"
 }
