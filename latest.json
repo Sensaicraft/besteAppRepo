@@ -1,9 +1,9 @@
 {
-  "version": "1.4.1",
-  "versionCode": 10401,
-  "url": "https://github.com/Sensaicraft/besteAppRepo/releases/download/v1.4.1/beste-stream-1.4.1.apk",
-  "size": 6138174,
-  "sha256": "f3ee2f53a66ce99184d39631c42964e6aa051377d38e8285c0761785cf299d20",
-  "notes": "- Added: Event Framework\n- Added: Frame Unlock Animation\n- Added: 5 new Frames\n- Reworked: Admin - Usage Tab\n- Fixed: Transcoding unreadable segment error\n- Fixed: Error code 4 - stream failed\n- Fixed: Remote control not auto-starting\n- Fixed: Size-budget overstepping",
-  "published": "2026-11-21T10:43:30Z"
+  "version": "1.4.2",
+  "versionCode": 10402,
+  "url": "https://github.com/Sensaicraft/besteAppRepo/releases/download/v1.4.2/beste-stream-1.4.2.apk",
+  "size": 6174275,
+  "sha256": "a1194ed5a67d4cb60db35c13f1994a69764fdeabb522d3efa6fe6bb1ebc88c93",
+  "notes": "- Added: Search by tag (using [tag])\n- Reworked: Billboard movie selection\n- Reworked: Event details\n- Fixed: Watchrooms not showing avatars\n- Fixed: Another transcode error",
+  "published": "2026-11-24T08:31:36Z"
 }
